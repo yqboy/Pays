@@ -18,5 +18,6 @@ VirtualXposed 目前不支持最新版 支付宝, 因为登录不了所以这边
 
 QQ交流群: 444197035
 
-![](https://github.com/yqboy/Pays/blob/master/1.jpg)
-![](https://github.com/yqboy/Pays/blob/master/2.jpg)
+<img width="400" src="https://github.com/yqboy/Pays/blob/master/1.jpg"/>
+
+<img width="800" src="https://github.com/yqboy/Pays/blob/master/2.jpg"/>
